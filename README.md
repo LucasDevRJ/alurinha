@@ -28,7 +28,7 @@ O projeto "alurinha" possui caixas que mostram os cursos disponíveis, imagens, 
 
 ## 🛠️ Abrir e rodar o projeto
 
-* Precisa ter o donwload do <a href="https://github.com/LucasDevRJ/barbeariaAlura">projeto</a> em seu computador;
+* Precisa ter o donwload do <a href="https://github.com/LucasDevRJ/alurinha/archive/refs/heads/master.zip">projeto</a> em seu computador;
 * Precisa ter alguma IDE.
 * IDE recomendada: <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 
