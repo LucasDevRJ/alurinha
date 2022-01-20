@@ -21,6 +21,8 @@ O projeto "alurinha" possui caixas que mostram os cursos disponíveis, imagens, 
 ## :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Um site de divulgação da própria instituição com o intuíto de ensinar a propriedade flex-box.
+- `Funcionalidade 2`: Ver o incrível design do site.
+- `Funcionalidade 3`: Analisar o layout do site no desktop, mobile e tablet.
 
 ## 📁 Acesso ao projeto
 
